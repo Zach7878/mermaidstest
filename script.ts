@@ -41,3 +41,4 @@ Task in sec      :2014-01-12  , 12d
 another task      : 24d
 `;
 renderMermaidAsync(mermaidCode)
+console.log("helo")
